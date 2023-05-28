@@ -1,9 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
 
-.imagen-head{
-    background-image: "../img/telecomunicaciones.png";
-}
-.foto-perfil{
-    
+body{
+    font-family:'Dosis', Calibri, sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 
@@ -14,6 +14,7 @@ h1{
 }
 
 header{
+    font-family: "";
     text-align: center;
     line-height:0%;
     
@@ -41,3 +42,17 @@ h2{
 dt{
     margin: 10px;
 }
+
+footer{
+    background-color: darkslategray;
+    color: blanchedalmond;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.icono{
+    width: 20px;
+    height: 20px;
+}
+   
