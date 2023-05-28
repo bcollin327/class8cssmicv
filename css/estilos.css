@@ -1,18 +1,30 @@
 
+.imagen-head{
+    background-image: "../img/telecomunicaciones.png";
+}
+.foto-perfil{
+    
+}
+
+
 h1{
     letter-spacing: 0.2em;
     font-weight: bold;
+    
 }
 
 header{
     text-align: center;
     line-height:0%;
+    
 }
 
 h2{
     font-weight: bold;
     margin: 0;
     padding: 10px;
+    background-color: darkslategrey;
+    color: blanchedalmond;
 }
 
 .destacar{
@@ -27,5 +39,5 @@ h2{
 }
 
 dt{
-    margin-top: 20px;
+    margin: 10px;
 }
